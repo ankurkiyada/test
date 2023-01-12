@@ -77,6 +77,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 8,
               "dynamicBindingPathList": [
                 {
@@ -96,7 +97,7 @@
               "widgetId": "qxm2w8evm8",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
-              "label": "Label",
+              "label": "Labeldfefe",
               "version": 1,
               "parentId": "0",
               "renderMode": "CANVAS",
